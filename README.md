@@ -11,3 +11,8 @@ Después de meses de viajar, el grupo de exploradores finalmente encontró lo qu
 Una emocionante carrera comenzó, con los exploradores luchando por mantener la reliquia fuera del alcance de los ladrones. Después de muchas luchas y peligros, los exploradores finalmente lograron llevar la reliquia a Wakanda, donde fue utilizada para mantener la ciudad a salvo y asegurar su futuro tecnológico.
 
 Desde entonces, Wakanda ha seguido siendo una ciudad próspera y pacífica, gracias a la determinación de sus habitantes para proteger su hogar y mantener su tecnología única en el mundo.
+
+Aquí la foto del pullrequest:
+![repositoriopullrequest.png](imagenes/repositoriopullrequest.png)
+
+El pull request se lo hice a Carlos Murillo
